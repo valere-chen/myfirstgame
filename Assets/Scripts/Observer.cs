@@ -48,6 +48,9 @@ public class Observer : MonoBehaviour
         RaycastHit raycastHit;
         if(Physics.Raycast(ray,out raycastHit))
         {
+
+          Debug.Log(raycastHit.collider.transform.name);
+          
           if(raycastHit.collider.transform==Player)
           {
             //玩家被发现，调用gameEnding的Cought方法

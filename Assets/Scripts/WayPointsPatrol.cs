@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-public class WayPoiint : MonoBehaviour
+public class WayPointsPatrol : MonoBehaviour
 {
     //导航组件
     private NavMeshAgent navMeshAgent;

@@ -14,8 +14,7 @@ public class PlayerMovement : MonoBehaviour
   //游戏人物旋转的角度
   Quaternion m_Quaternion = Quaternion.identity;
   //定义游戏人物移动的速度
- 
-   
+  
     void Start()
     {
         //获取人物上的刚体，动画控制机组件

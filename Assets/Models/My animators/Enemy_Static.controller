@@ -33,19 +33,19 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: 2105334825734966490}
-    m_Position: {x: 213.02003, y: 282.78592, z: 0}
+    m_State: {fileID: 1878872247114162297}
+    m_Position: {x: 510, y: 210, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 180, y: 10, z: 0}
-  m_EntryPosition: {x: 210, y: 150, z: 0}
-  m_ExitPosition: {x: 480, y: 70, z: 0}
+  m_AnyStatePosition: {x: 220, y: 30, z: 0}
+  m_EntryPosition: {x: 170, y: 250, z: 0}
+  m_ExitPosition: {x: 570, y: 50, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 2105334825734966490}
---- !u!1102 &2105334825734966490
+  m_DefaultState: {fileID: 1878872247114162297}
+--- !u!1102 &1878872247114162297
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
